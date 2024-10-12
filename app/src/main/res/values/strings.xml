@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TheNewAvengersCatalogApp</string>
+    <string name="avenger_members">Anggota Avenger</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="search">Pencarian</string>
+    <string name="summary">Summary</string>
+    <string name="profile">Profile</string>
+    <string name="email_developer">rachmanforniandi@gmail.com</string>
+    <string name="name_developer">Rachman Forniandi</string>
+    <string name="are_you_sure_do_you_want_to_exit">Are you sure you want to exit from application?</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="exit">Exit ?</string>
+    <string name="list_of_heroes">List of Heroes</string>
+    <string name="alias">Alias</string>
+    <string name="abilities">Abilities</string>
+    <string name="image_hero_detail">image hero detail</string>
+    <string name="power">Power</string>
+    <string name="name">Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
