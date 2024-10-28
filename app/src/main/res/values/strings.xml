@@ -22,4 +22,9 @@
     <string name="name">Name</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">Share</string>
+    <string name="detail_of_heroes">Detail of Heroes</string>
+    <string name="image_character_carrousel">Image character carrousel</string>
+    <string name="carrousel_version">Carrousel Version</string>
+    <string name="select_your_heroes">Select your Heroes!!</string>
 </resources>

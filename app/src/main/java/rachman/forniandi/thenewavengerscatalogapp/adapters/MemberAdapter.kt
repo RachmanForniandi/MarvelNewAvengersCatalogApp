@@ -7,7 +7,8 @@ import rachman.forniandi.marvelnewavengerscatalogapp.R
 import rachman.forniandi.marvelnewavengerscatalogapp.databinding.ItemMemberBinding
 import rachman.forniandi.thenewavengerscatalogapp.models.HeroMember
 
-class MemberAdapter(private val data: List<HeroMember>, private var onClickListener: OnItemClickListener?): RecyclerView.Adapter<MemberAdapter.MemberHolder>()  {
+class MemberAdapter(private val data: ArrayList<HeroMember>, private var onClickListener: OnItemClickListener?): RecyclerView.Adapter<MemberAdapter.MemberHolder>()  {
+
 
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MemberHolder {
